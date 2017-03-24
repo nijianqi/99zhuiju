@@ -26,7 +26,7 @@ body{background:#fff}
 .tpt-banner .tpt-a:hover img,.tpt-banner .tpt-b li:hover img{transform:scale(1.1,1.1)}
 .tpt-banner .tpt-a a{color:#fff;font-size:18px}
 .tpt-banner .tpt-b a{color:#fff;font-size:1pc}
-.tpt-sidebar{background:#fafafa;margin:80px 10px 10px;padding-top:25px}
+.tpt-sidebar{background:#fafafa;margin:6% 10px 10px;padding-top:25px}
 .tpt-sidebar h3{font-size:20px;font-weight:400;padding:0 0 0 25px;border-left:4px solid #f63756;line-height:22px}
 .tpt-c li{float:left;line-height:30px;padding:20px 4%;border-bottom:1px solid #f0f0f0}
 .tpt-c li a{font-size:1pc;color:#333}
