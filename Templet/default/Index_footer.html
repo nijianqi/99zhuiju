@@ -1,0 +1,43 @@
+<div class="tpt-footer tpt-mat-30">
+	<div class="tpt-wp cl">
+		<div class="tpt-md-1">
+			<div class="tpt-mds">
+				<p>
+Copyright© 2014-2017
+					<span class="pipe">|</span>
+Powered by <a href="http://www.templet360.com/" target="_blank">Templet360</a> 1.1
+					<span class="tpt-none-768 tpt-none-1024">
+					<span class="pipe">|</span>
+					<a href="http://www.miitbeian.gov.cn/" target="_blank">{$tpte.beian}</a>
+					<span class="pipe">|</span>
+					<a href="http://wpa.qq.com/msgrd?v=3&uin={$tpte.qqs}&site=qq&menu=yes" target="_blank" >QQ:{$tpte.qqs}</a>
+					</span>
+					<span class="pipe">|</span>
+					QQ群:424390866
+					</span>
+				</p>
+				<p>
+					免责声明：本网站将逐步删除和规避程序自动搜索采集到的不提供分享的版权影视。本站仅供测试和学习交流。请大家支持正版。 若有侵权，请即时告知站长邮箱：1198952901@qq.com 万分感谢！
+				</p>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+			$(document).ready(function(){
+				$('.the-nav').cbFlyout();
+			});
+</script>
+<script type="text/javascript">
+  var urlstr = location.href;
+  //alert((urlstr + '/').indexOf($(this).attr('href')));
+  var urlstatus=false;
+  $("#menu a").each(function () {
+    if ((urlstr + '/').indexOf($(this).attr('href')) > -1&&$(this).attr('href')!='') {
+      $(this).addClass('curs'); urlstatus = true;
+    } else {
+      $(this).removeClass('curs');
+    }
+  });
+  if (!urlstatus) {$("#menu a").eq(0).addClass('curs'); }
+</script>

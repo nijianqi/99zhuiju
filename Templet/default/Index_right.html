@@ -1,0 +1,66 @@
+<style>
+	.danatetext{
+		border:1px solid #00b7ee;
+		color: #2FBBCA;
+		margin: 16px 85px;
+		padding: 6px 10px;
+		border-radius:4px;
+	}
+</style>
+<div class="tpt-sidebar cl">
+	<h3>温馨提示</h3>
+	<ul class="tpt-c cl">
+		<li><a target="_blank" href="{:U('index/zanzhu')}"> <span class="danatetext">♥ 赞助小站</span> </a></li>
+		<li>群组链接每分钟更新一次，删除之前的链接，重新获取，如遇文章删除，返回刷新即可，也可移步QQ群424390866</li>
+		<li>以下资源均从其它网站搜索得到, 本站对其内容不知晓不负责, 若侵犯您的权益,请联系我们删除!</li>
+		<li>以下为资源分享群,QQ群424390866,每日分享。<span style="margin-left: 20%";><img src="__ROOT__/Uploads/qq.png" ></span></li>
+	</ul>
+</div>
+<div class="tpt-sidebar cl">
+	<h3>热门推荐</h3>
+	<ul class="tpt-c cl">
+		<volist name="tptb" id="vo">
+		<li><if condition="C('WEB_URL') eq 1"><a title="{$vo.title}" href="__ROOT__/article/{$vo.id}.html"><else/>
+		<a title="{$vo.title}" href="{:U('Home/index/article',array('id'=>$vo['id']))}"></if>{$vo.title}</a>
+		<p>
+			{$vo.time|date="Y-m-d H:i:s",###}
+		</p>
+		</li>
+		</volist>
+	</ul>
+</div>
+<div class="tpt-sidebar cl">
+	<h3>精选内容</h3>
+	<ul class="tpt-d cl">
+		<volist name="tptc" id="vo">
+		<li>
+		<div>
+		<if condition="C('WEB_URL') eq 1"><a title="{$vo.title}" href="__ROOT__/article/{$vo.id}.html"><else/>
+		<a title="{$vo.title}" href="{:U('Home/index/article',array('id'=>$vo['id']))}"></if>
+		<if condition="$vo[pic] neq ''">
+			<if condition="strstr($vo[pic],'http') neq ''">
+				<img src="{$vo.pic}" alt="{$vo.title}">
+				<else />
+				<img src="__ROOT__/Uploads{$vo.pic}" alt="{$vo.title}">
+			</if>
+		<else /> 
+        <img src="__HOME__/img/1.jpg" alt="暂无缩略图">
+        </if>
+		</a>
+		</div>
+		<p>
+			<if condition="C('WEB_URL') eq 1"><a title="{$vo.title}" href="__ROOT__/article/{$vo.id}.html"><else/>
+			<a title="{$vo.title}" href="{:U('Home/index/article',array('id'=>$vo['id']))}"></if>{$vo.title}</a>
+		</p>
+		</li>
+		</volist>
+	</ul>
+</div>
+<div class="tpt-sidebar cl">
+	<h3>友情连接</h3>
+	<ul class="tpt-e cl">
+		<volist name="tptd" id="vo">
+			<li><a target="_blank" href="{$vo.link}">{$vo.name}</a></li>
+		</volist>
+	</ul>
+</div>

@@ -1,0 +1,871 @@
+a:3:{s:4:"time";i:1490310514;s:6:"expire";i:60;s:5:"value";s:38835:"<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-dns-prefetch-control" content="on"/>
+        <meta name="apple-mobile-web-app-capable" content="yes"/>
+        <meta content="telephone=no" name="format-detection"/>
+        <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"/>
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+        <link href="/favicon.ico" rel="shortcut icon" />
+        <link href="/favicon.ico" rel="icon">
+        <link href="/favicon.ico" rel="Bookmark" />
+        <title>追剧网-每天千款优惠券秒杀，一折限时疯抢！</title>
+        <meta name="Keywords" content="追剧网,优惠券折扣,9块9包邮,限时特卖,优品折扣,追剧网"/>
+        <meta name="Description" content="追剧网-优惠券折扣直播第一站！每天更新千款，纯人工筛选验货，限时限量特卖，全场1折包邮！"/>
+        <link href="http://cmsstatic.dataoke.com/other/Swiper/3.3.1/css/swiper.min.css?v=201702271126" rel="stylesheet">
+        <link href="http://cmsstatic.dataoke.com//web/css/wap_common.css?v=201702271126" rel="stylesheet">
+        <link href="http://cmsstatic.dataoke.com//web/css/wapindex.css?v=201702271126" rel="stylesheet"/>
+        <script src="http://cmsstatic.dataoke.com//web/js/jquery.2.0.min.js?v=201702271126"></script>
+        <script src="http://cmsstatic.dataoke.com/other/Swiper/3.3.1/js/swiper.jquery.min.js?v=201702271126"></script>
+        <script src="http://cmsstatic.dataoke.com//web/js/lazyload.js?v=201702271126"></script>
+    </head>
+    <body>
+        <div class="main-title clearfix">
+            <a href="/shop?r=index/wap&u=509448"  class="main-logo fl">
+                <!--优先显示图片，图片没有在显示名字-->
+                追剧网            </a>
+            <div class="search fl">
+                <form action="/shop?r=index/search" method="get">
+                    <input type="hidden" name="r" value="index/search"/>
+                    <button class="search_submit background"></button>
+                    <input type="text" placeholder="好宝贝 等你搜" name="kw" class="search_area"  autocomplete="off"/>
+                </form>
+            </div>
+            <a id="mui-action-menu" class="mui-action-menu mui-pull-left main-icon fr" href="javascript:void(0)">
+                <span></span>
+            </a>
+        </div>
+        <!-- 主界面具体展示内容 -->
+        
+<div class="index-wrapper">
+    <div class="swiper-container" style="width: 100%;">
+        <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                <a href="/shop?r=p/d&id=2065660" >
+                    <img style="width: 100%;" src="https://img.alicdn.com/imgextra/i3/2508158775/TB2QuQBj4hmpuFjSZFyXXcLdFXa_!!2508158775.jpg"/>
+                </a>
+            </div>
+                        <div class="swiper-slide">
+                <a href="/shop?r=p/d&id=2060864" >
+                    <img style="width: 100%;" src="https://img.alicdn.com/imgextra/i1/2508158775/TB2k7SLiCXlpuFjy0FeXXcJbFXa_!!2508158775.jpg"/>
+                </a>
+            </div>
+                        <div class="swiper-slide">
+                <a href="/shop?r=p/d&id=2066584" >
+                    <img style="width: 100%;" src="https://img.alicdn.com/imgextra/i1/2508158775/TB21.YykhBmpuFjSZFDXXXD8pXa_!!2508158775.jpg"/>
+                </a>
+            </div>
+                        <div class="swiper-slide">
+                <a href="/shop?r=p/d&id=2070453" >
+                    <img style="width: 100%;" src="https://img.alicdn.com/imgextra/i4/2508158775/TB22sVNkEhnpuFjSZFpXXcpuXXa_!!2508158775.jpg"/>
+                </a>
+            </div>
+                        <div class="swiper-slide">
+                <a href="/shop?r=p/d&id=2079621" >
+                    <img style="width: 100%;" src="https://img.alicdn.com/imgextra/i4/2508158775/TB2BaLviNdkpuFjy0FbXXaNnpXa_!!2508158775.jpg"/>
+                </a>
+            </div>
+                    </div>
+        <div class="swiper-pagination"></div>
+    </div>
+    <script>
+        (function(){
+            window.onresize = function(){
+
+                $('.swiper-slide').height($('.swiper-container').width()/414*173);
+                $('.swiper-container').height($('.swiper-container').width()/414*173);
+            }
+            $('.swiper-slide').height($('.swiper-container').width()/414*173);
+            $('.swiper-container').height($('.swiper-container').width()/414*173);
+
+        })()
+    </script>
+    <style>
+        .swiper-pagination{
+            position:absolute;
+        text-align:center;
+        -webkit-transition:.3s;
+        -moz-transition:.3s;
+        -o-transition:.3s;
+        transition:.3s;
+        -webkit-transform:translate3d(0,0,0);
+        -ms-transform:translate3d(0,0,0);
+        -o-transform:translate3d(0,0,0);
+        transform:translate3d(0,0,0);
+        z-index:10
+        }
+        .swiper-pagination-bullet{
+            width:8px;
+            height:8px;
+            display:inline-block;
+            border-radius:100%;
+            background:#000;
+            opacity:.1
+        }
+        .swiper-pagination-bullet-active{
+        width:6px;
+        height:6px;
+        opacity:1;
+        background:white;
+        border: #000 1px solid;
+        opacity:.1
+        }
+    </style>
+    <div class="icon-link-wrapper">
+        <ul class="icon-url-list clearfix">
+            <li class="icon-99by">
+                <a href="/shop?r=index/9" >
+                    <i></i>
+                    <span>9.9包邮</span>
+                </a>
+            </li>
+            <li class="icon-rqb">
+                <a href="/shop?r=p/wap&u=509448" >
+                    <i></i>
+                    <span>超级人气榜</span>
+                </a>
+            </li>
+            <li class="icon-xblj">
+                <a href="/shop?r=index/r" >
+                    <i></i>
+                    <span>小编力荐</span>
+                </a>
+            </li>
+            <li class="icon-jpsf">
+                <a href="/shop?r=index/cat&cid=4&u=509448" >
+                    <i></i>
+                    <span>居家日用</span>
+                </a>
+            </li>
+
+        </ul>
+    </div>
+</div>
+
+<div class="you-wrapper clearfix">
+<div class="title-wrapper fl"></div>
+<div class="text fl">
+    <span class="mui-badge mui-badge-blue main-badge">24799</span>
+</div>
+</div>
+<div class="goods-list" data-page="2">
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2063752" class="img" >
+                    <span class="today-wrapper">
+                <span>小编</span>
+                <span>精选</span>
+            </span>
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">50元</span>
+        </span>
+        <img src="http://img.alicdn.com/imgextra/i4/1066361953/TB2G4wVamVmpuFjSZFFXXcZApXa_!!1066361953.jpg_230x230.jpg" alt="">
+    </a>
+    <a href="/shop?r=p/d&id=2063752" class="title">
+        <div class="text" style=" color:#777777;">免打孔毛巾架太空铝折叠浴室浴巾架卫生间置物架卫浴五金挂件套装</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥58</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">184</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2060864" class="img" >
+                    <span class="today-wrapper">
+                <span>小编</span>
+                <span>精选</span>
+            </span>
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">3元</span>
+        </span>
+        <img src="http://img.alicdn.com/imgextra/i1/TB1EgtSPFXXXXcuXVXXXXXXXXXX_!!0-item_pic.jpg_230x230.jpg" alt="">
+    </a>
+    <a href="/shop?r=p/d&id=2060864" class="title">
+        <div class="text" style=" color:#777777;">无火香薰精油套装干花藤条熏香家用室内房间卧室厕所除臭味香水</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥11.9</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">5801</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2077277" class="img" >
+                    <span class="today-wrapper">
+                <span>小编</span>
+                <span>精选</span>
+            </span>
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">40元</span>
+        </span>
+        <img src="http://img.alicdn.com/imgextra/i2/TB1USWqQXXXXXXhXpXXXXXXXXXX_!!0-item_pic.jpg_230x230.jpg" alt="">
+    </a>
+    <a href="/shop?r=p/d&id=2077277" class="title">
+        <div class="text" style=" color:#777777;">2017春装新款女装潮韩版时尚休闲卫衣两件套春季运动服套装女春秋</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥138</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">260</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2070453" class="img" >
+                    <span class="today-wrapper">
+                <span>小编</span>
+                <span>精选</span>
+            </span>
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">10元</span>
+        </span>
+        <img src="http://img.alicdn.com/imgextra/i2/875169115/TB2uGxIsVXXXXXWXpXXXXXXXXXX_!!875169115.jpg_230x230.jpg" alt="">
+    </a>
+    <a href="/shop?r=p/d&id=2070453" class="title">
+        <div class="text" style=" color:#777777;">香水女礼盒套装 女士香水持久淡香清新自然诱惑学生喷雾生日礼物</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥39</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">4373</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2079046" class="img" >
+                    <span class="today-wrapper">
+                <span>小编</span>
+                <span>精选</span>
+            </span>
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">20元</span>
+        </span>
+        <img src="http://img.alicdn.com/imgextra/i4/716824265/TB2KXeXjZtnpuFjSZFvXXbcTpXa_!!716824265.jpg_230x230.jpg" alt="">
+    </a>
+    <a href="/shop?r=p/d&id=2079046" class="title">
+        <div class="text" style=" color:#777777;">容威空调挡风板 防直吹月子空调挡风罩格力美的换方向空调导风板</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥49</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">25</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2083078" class="img" >
+                    <span class="today-wrapper">
+                <span>小编</span>
+                <span>精选</span>
+            </span>
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">3元</span>
+        </span>
+        <img src="http://img.alicdn.com/imgextra/i2/2914113989/TB2LvCOXwOI.eBjSszhXXbHvFXa_!!2914113989.jpg_230x230.jpg" alt="">
+    </a>
+    <a href="/shop?r=p/d&id=2083078" class="title">
+        <div class="text" style=" color:#777777;">富牛 优酪果冻600g多口味果肉果冻布丁休闲办公室零食品100g*6个</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥12.99</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">39</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2078584" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">3元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://img.alicdn.com/imgextra/i3/822253495/TB2OFJ9iYxmpuFjSZJiXXXauVXa_!!822253495.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2078584" class="title">
+        <div class="text" style=" color:#777777;">美阳阳24色超轻粘土橡皮泥盒装</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥14.9</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">192873</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2078014" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">20元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://img.alicdn.com/imgextra/i1/857586446/TB2UxpdiXXXXXXOXXXXXXXXXXXX_!!857586446.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2078014" class="title">
+        <div class="text" style=" color:#777777;">小淘星轻便折叠婴儿宝宝推车</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥79</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">601</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2083081" class="img">
+                    <span class="today-wrapper">
+                <span>今日</span>
+                <span>新品</span>
+            </span>
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">5元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://img.alicdn.com/imgextra/i4/2455536266/TB2DV_BgYBnpuFjSZFGXXX51pXa_!!2455536266.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2083081" class="title">
+        <div class="text" style=" color:#777777;">沃之沃特大号整理箱床底收纳箱</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥30</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">18110</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2077217" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">10元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://gd4.alicdn.com/bao/uploaded/i4/2271297498/TB20pPvXH1J.eBjSspnXXbUeXXa_!!2271297498.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2077217" class="title">
+        <div class="text" style=" color:#777777;">迪士尼 带书包位儿童卡通雨衣</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥29.8</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">8992</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2078804" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">10元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="https://img.alicdn.com/imgextra/i1/2115246465/TB2Ge6PkolnpuFjSZFjXXXTaVXa_!!2115246465.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2078804" class="title">
+        <div class="text" style=" color:#777777;">美即黑米酵力纯净透亮面膜组合3片</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥9.9</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">33550</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2072737" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">20元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://gd4.alicdn.com/bao/uploaded/i4/2090294641/TB2ZVDMhHXlpuFjSszfXXcSGXXa_!!2090294641.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2072737" class="title">
+        <div class="text" style=" color:#777777;">【聚划算】杨幂同款牛仔半身A字裙</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥29</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">11687</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2077454" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">10元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://img.alicdn.com/imgextra/i4/2364507641/TB2gicGdFXXXXXDXpXXXXXXXXXX_!!2364507641.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2077454" class="title">
+        <div class="text" style=" color:#777777;">纳美嘉可调节鞋柜收纳鞋架8只</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥18.8</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">19038</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2063401" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">10元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://img.alicdn.com/imgextra/i4/2729069554/TB28_GKfhBmpuFjSZFDXXXD8pXa_!!2729069554.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2063401" class="title">
+        <div class="text" style=" color:#777777;">婴幼儿可用抽纸120抽24包</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥29.9</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">47332</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2083613" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">5元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://img.alicdn.com/imgextra/i3/TB1sg7cPFXXXXcrXVXXXXXXXXXX_!!0-item_pic.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2083613" class="title">
+        <div class="text" style=" color:#777777;">【高露洁】劲白美白牙膏120g*6支装</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥34.9</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">34576</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2080298" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">20元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://img.alicdn.com/imgextra/i3/2920899310/TB2ccmwiB0lpuFjSszdXXcdxFXa_!!2920899310.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2080298" class="title">
+        <div class="text" style=" color:#777777;">【扬子】充电式强力驱蚊电蚊拍</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥12.9</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">23560</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2085372" class="img">
+                    <span class="today-wrapper">
+                <span>今日</span>
+                <span>新品</span>
+            </span>
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">10元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="https://gd3.alicdn.com/imgextra/i3/755775547/TB2meZGiS0mpuFjSZPiXXbssVXa_!!755775547.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2085372" class="title">
+        <div class="text" style=" color:#777777;">海尔智能KKC电动牙刷充电超声波震动软牙刷</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥118</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">8595</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2081756" class="img">
+                    <span class="today-wrapper">
+                <span>今日</span>
+                <span>新品</span>
+            </span>
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">3元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://gd3.alicdn.com/bao/uploaded/i3/743287756/TB2O3Hakd0opuFjSZFxXXaDNVXa_!!743287756.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2081756" class="title">
+        <div class="text" style=" color:#777777;">春夏情侣潮流薄棉船袜 10双装</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥12.8</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">31203</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2078182" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">10元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://gd3.alicdn.com/bao/uploaded/i3/2752513984/TB2Yak5agJkpuFjSszcXXXfsFXa_!!2752513984.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2078182" class="title">
+        <div class="text" style=" color:#777777;">杜蕾斯超薄避孕套纯杜蕾斯19只</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥19.9</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">70646</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2082327" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">50元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://img.alicdn.com/imgextra/i2/TB1ibk3PpXXXXbhXpXXXXXXXXXX_!!0-item_pic.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2082327" class="title">
+        <div class="text" style=" color:#777777;">夏季男士短袖圆领印花纯棉t恤</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥18.8</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">52856</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2083568" class="img">
+                    <span class="today-wrapper">
+                <span>今日</span>
+                <span>新品</span>
+            </span>
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">10元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://img.alicdn.com/imgextra/i1/369362777/TB29YccfbplpuFjSspiXXcdfFXa_!!369362777.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2083568" class="title">
+        <div class="text" style=" color:#777777;">沃之沃玩具收纳箱塑料整理箱有盖4件套</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥39</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">29630</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2079105" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">60元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://img.alicdn.com/imgextra/i3/1848187791/TB2WtqXdXOP.eBjSZFHXXXQnpXa_!!1848187791.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2079105" class="title">
+        <div class="text" style=" color:#777777;">iPhone6/6s/6p/7/7p背夹移动充电宝</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥39.9</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">53518</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2079818" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">10元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://img.alicdn.com/imgextra/i3/2127036007/TB2.VHLkohnpuFjSZFpXXcpuXXa_!!2127036007.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2079818" class="title">
+        <div class="text" style=" color:#777777;">衣管家纳米超浓缩洗衣片50片</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥9.9</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">54372</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2074725" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">5元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://img.alicdn.com/imgextra/i4/TB14mAoPVXXXXbyXXXXXXXXXXXX_!!0-item_pic.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2074725" class="title">
+        <div class="text" style=" color:#777777;">雪袖春秋防走光蓬蓬百褶裙</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥24</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">11632</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2056499" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">10元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://img.alicdn.com/imgextra/i4/355739614/TB2yrixftRopuFjSZFtXXcanpXa_!!355739614.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2056499" class="title">
+        <div class="text" style=" color:#777777;">舒克牙刷软毛家庭装竹炭小刷头12支套装</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥29.9</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">20897</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+<div class="goods-item">
+    <a href="/shop?r=p/d&id=2076973" class="img">
+                <span class="coupon-wrapper">
+            <span class="coupon" style="color: #EDFF00;">独家券</span>
+            <span class="price">5元</span>
+        </span>
+        <img class="lazy" src="http://cmsstatic.dataoke.com//web/images/rolling.gif?v=201702271126"  data-original="http://img.alicdn.com/imgextra/i3/1066223908/TB21bKgrVXXXXaUXXXXXXXXXXXX_!!1066223908.jpg_230x230.jpg" alt="">
+    </a>
+    <a  href="/shop?r=p/d&id=2076973" class="title">
+        <div class="text" style=" color:#777777;">英尚K6重低音入耳式电脑手机小米通用</div>
+    </a>
+    <div class="price-wrapper">
+        <span class="text">券后</span>
+        <span class="price">￥14.8</span>
+        <div class="sold-wrapper">
+            <span class="sold-num">53403</span>
+            <span class="text">人已买</span>
+        </div>
+    </div>
+</div>
+</div>
+<div class="pullup-goods">
+    <div class="label">商品加载中...</div>
+</div>
+<script language="javascript">
+    if(window.history.state){
+        $('.goods-list').html(window.history.state.list);
+        var page = window.history.state.page;
+    }else{
+        var page = 2;
+    }
+
+    var isFinish = false;
+    var isLoading = false;
+    var $pullUp = null;
+    var needLoadMore = false;
+    var maxScrollY = 0;
+    var windowHeight = 0;
+    $(document).ready(function () {
+
+        var mySwiper = new Swiper('.swiper-container', {
+            pagination: '.swiper-pagination',
+            loop: true,
+            autoplay: 2500
+        });
+
+        maxScrollY = $(document).height();
+        windowHeight = $(window).height();
+        $(window).on('resize', function () {
+            windowHeight = $(window).height();
+        });
+        $(window).scroll(function (e) {
+            if (isFinish || isLoading) {
+                return;
+            }
+            var y = $(document).scrollTop();
+            maxScrollY = $(document).height();
+            windowHeight = $(window).height();
+            if (Math.abs(maxScrollY - windowHeight - y) > 100) {
+                return;
+            }
+            var $wrapper = $(this);
+            if (!$pullUp) {
+                $pullUp = $wrapper.find('.pullup-goods');
+            }
+            var data = null;
+            getData($wrapper, data, 1);
+        });
+        function getData($wrapper, data, direction) {
+            if (isFinish) {
+                return;
+            }
+            isLoading = true;
+            if (!$pullUp) {
+                $pullUp = $wrapper.find('.pullup-goods');
+            }
+            var labelTag = $($pullUp).find('.label');
+            var tPaht = "/shop/index.php";
+            $.ajax(tPaht, {
+                data: {r: 'index/ajax', page: page},
+                dataType: 'json',
+                type: 'post',
+                error: function (xhr, type, errorThrown) {
+                getData($wrapper, data, direction);
+                },
+                success: function (result, status, xhr) {
+                    needLoadMore = false;
+                    if (result.status == 0) {
+                        if(result.data.pageStatus === false){
+                            isLoading = false;
+                            $('.pullup-goods .label').html('没有更多商品啦');
+                            isFinish = true;
+                        }
+                        $('.goods-list').append(result.data.content);
+                        // myScroll.refresh();
+                        $("img.lazy").lazyload();
+                        aClick();
+                        maxScrollY = $(document).height();
+                        isLoading = false;
+                        page++;
+                        $('.goods-list').attr('data-page',page);
+                        //$(labelTag).html('上拉加载更多商品');
+                    } else {
+                        //                        myScroll.refresh();
+                        maxScrollY = $(document).height();
+                        isLoading = false;
+                        $(labelTag).html('没有更多商品啦');
+                        isFinish = true;
+                    }
+                }
+            });
+        }
+    });
+$("img.lazy").lazyload();
+</script>
+
+        <nav id="show-top-menu">
+            <div class="mask" id="menu-mask"></div>
+            <div class="menu-content">
+                <ul class="main-cat">
+                                                <li class="cat-item mm-nolistview">
+                                <a rel="external" href="/shop?r=index/cat&cid=1&u=509448">女装</a>
+                            </li>
+                                                        <li class="cat-item ">
+                                <a rel="external" href="/shop?r=index/cat&cid=9&u=509448">男装</a>
+                            </li>
+                                                        <li class="cat-item ">
+                                <a rel="external" href="/shop?r=index/cat&cid=10&u=509448">内衣</a>
+                            </li>
+                                                        <li class="cat-item ">
+                                <a rel="external" href="/shop?r=index/cat&cid=2&u=509448">母婴</a>
+                            </li>
+                                                        <li class="cat-item ">
+                                <a rel="external" href="/shop?r=index/cat&cid=3&u=509448">化妆品</a>
+                            </li>
+                                                        <li class="cat-item ">
+                                <a rel="external" href="/shop?r=index/cat&cid=4&u=509448">居家</a>
+                            </li>
+                                                        <li class="cat-item ">
+                                <a rel="external" href="/shop?r=index/cat&cid=5&u=509448">鞋包配饰</a>
+                            </li>
+                                                        <li class="cat-item ">
+                                <a rel="external" href="/shop?r=index/cat&cid=6&u=509448">美食</a>
+                            </li>
+                                                        <li class="cat-item ">
+                                <a rel="external" href="/shop?r=index/cat&cid=7&u=509448">文体车品</a>
+                            </li>
+                                                        <li class="cat-item ">
+                                <a rel="external" href="/shop?r=index/cat&cid=8&u=509448">数码家电</a>
+                            </li>
+                                            </ul>
+                <span class="up-menu">收起分类</span>
+            </div>
+        </nav>
+        <div class="toTop">&#xe601;</div>
+        <div style="display: none;">
+            <script type="text/javascript">
+    (function(win,doc){
+        var s = doc.createElement("script"), h = doc.getElementsByTagName("head")[0];
+        if (!win.alimamatk_show) {
+            s.charset = 'gbk';
+            s.async = true;
+            s.src = "http://a.alimama.cn/tkapi.js";
+            s.kslite = "";
+            h.insertBefore(s, h.firstChild);
+        }
+        var o = {
+            pid: "mm_59242507_22672763_75050748",/*推广单元ID，用于区分不同的推广渠道*/
+            plugins:[{name:"keyword"}]/*需要加载的插件：内文关键字插件*/
+        };
+        win.alimamatk_onload = win.alimamatk_onload || [];
+        win.alimamatk_onload.push(o);
+    })(window,document);
+</script>            <script src="http://s4.cnzz.com/z_stat.php?id=1261542629&web_id=1261542629" language="JavaScript"></script>        </div>
+    <script src="http://cmsstatic.dataoke.com//web/js/cms_common.js?v=201702271126"></script>
+    <script type="text/javascript" src="http://counter.dataoke.com/js/dtk.js?t=5&amp;u=509448&amp;pv=5" id="counterJs"></script>
+</body>
+</html>";}
